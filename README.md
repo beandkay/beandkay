@@ -1,8 +1,5 @@
 ### Hi there 👋 My name is Binh, I am currently pursuing PhD degree at Sungkyunkwan University, South Korea under supervisor Professor Joon-Sung Yang.
 
-
-<--- **beandkay/beandkay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --->
-
 - :zap: I love math, programming, data science, and books
 - My research topic is Machine Learning and Computer Vision related to Image Classification and Object Detection.
 - 🌱 I’m addicted to learning and growing every day
