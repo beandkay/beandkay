@@ -29,7 +29,7 @@ Also, I'm always trying to study various fields not stated above for interdiscip
 > **EUNNet: Efficient UN-normalized Convolution layer for stable training of Deep Residual Networks without Batch Normalization layer**<br>
 >> **Nguyen, Khanh-Binh and Choi, Jaehyuk and Yang, Joon-Sung<br>
 >> IEEE Access 2023 <br>
->> <a href="https://ieeexplore.ieee.org/document/xxx">[Link]</a>
+>> <a href="https://ieeexplore.ieee.org/document/10041931/">[Link]</a>
 
 > **Checkerboard Dropout: A Structured Dropout With Checkerboard Pattern for Convolutional Neural Networks**<br>
 >> **Nguyen, Khanh-Binh and Choi, Jaehyuk and Yang, Joon-Sung<br>
