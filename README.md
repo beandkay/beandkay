@@ -75,3 +75,4 @@ Also, I'm always trying to study various fields not stated above for interdiscip
 
 [![Binh's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=beandkay&count_private=true&show_icons=true&theme=synthwave&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=beandkay&langs_count=8&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
