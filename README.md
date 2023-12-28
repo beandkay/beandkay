@@ -51,12 +51,12 @@ Also, I'm always trying to study various fields not stated above for interdiscip
 > **Debiasing, calibrating, and improving Semi-supervised Learning performance via simple Ensemble Projector**<br>
 >> **Nguyen, Khanh-Binh**<br>
 >> IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2024.<br>
->> <a href="https://github.com/beandkay/EPASS/">[Code]</a> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Debiasing_Calibrating_and_Improving_Semi-Supervised_Learning_Performance_via_Simple_Ensemble_WACV_2024_paper">[arXiv]</a> 
+>> <a href="https://github.com/beandkay/EPASS/">[Code]</a> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Debiasing_Calibrating_and_Improving_Semi-Supervised_Learning_Performance_via_Simple_Ensemble_WACV_2024_paper">[Link]</a> 
 
 > **(Oral, top 3%) SequenceMatch: Revisiting the design of weak-strong augmentations for Semi-supervised learning**<br>
 >> **Nguyen, Khanh-Binh**<br>
 >> IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2024.<br>
->> <a href="https://github.com/beandkay/SequenceMatch/">[Code]</a> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_SequenceMatch_Revisiting_the_Design_of_Weak-Strong_Augmentations_for_Semi-Supervised_Learning_WACV_2024_paper">[arXiv]</a> 
+>> <a href="https://github.com/beandkay/SequenceMatch/">[Code]</a> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_SequenceMatch_Revisiting_the_Design_of_Weak-Strong_Augmentations_for_Semi-Supervised_Learning_WACV_2024_paper">[Link]</a> 
 
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/binh-nguyen-45a4a6b6/)
