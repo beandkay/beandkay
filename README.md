@@ -10,7 +10,7 @@ Also, I'm always trying to study various fields not stated above for interdiscip
 
 * Sungkyunkwan University, Seoul, Korea
   * M.S./Ph.D. Integrated Student in Electrical and Computer Engineering
-  * Mar. 2019 - Present
+  * Mar. 2019 - Aug. 2023
 
 * Ho Chi Minh University of Technology, Ho Chi Minh, Vietnam
   * B.S. in Computer Science
