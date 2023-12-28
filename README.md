@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Binh, I am currently pursuing PhD degree at Sungkyunkwan University, South Korea under supervisor Professor [Joon-Sung Yang](https://sites.google.com/yonsei.ac.kr/dates/people).
+### Hi there 👋 My name is Binh, I obtained a PhD degree at Sungkyunkwan University, South Korea under supervisor Professor [Joon-Sung Yang](https://sites.google.com/yonsei.ac.kr/dates/people).
 
 # Research Interest
 **Visual Correspondence** and its applications. e.g., Semantic Correspondence, Representation Learning, etc. Specifically, I am interested in effective model architecture for computer vision tasks or designing efficient methods for correspondence. <br>
@@ -27,48 +27,37 @@ Also, I'm always trying to study various fields not stated above for interdiscip
 ## International Journal
 
 > **EUNNet: Efficient UN-normalized Convolution layer for stable training of Deep Residual Networks without Batch Normalization layer**<br>
->> **Nguyen, Khanh-Binh and Choi, Jaehyuk and Yang, Joon-Sung<br>
+>> **Nguyen, Khanh-Binh** and Choi, Jaehyuk and Yang, Joon-Sung<br>
 >> IEEE Access 2023 <br>
->> <a href="https://ieeexplore.ieee.org/document/10041931/">[Link]</a>
+>> <a href="https://github.com/beandkay/EUNNet/">[Code]</a> <a href="https://ieeexplore.ieee.org/document/10041931/">[Link]</a>
 
 > **Checkerboard Dropout: A Structured Dropout With Checkerboard Pattern for Convolutional Neural Networks**<br>
->> **Nguyen, Khanh-Binh and Choi, Jaehyuk and Yang, Joon-Sung<br>
+>> **Nguyen, Khanh-Binh** and Choi, Jaehyuk and Yang, Joon-Sung<br>
 >> IEEE Access 2022 <br>
->> <a href="https://ieeexplore.ieee.org/document/9828384">[Link]</a>
-<!-- 
+>> <a href="https://github.com/beandkay/CheckerboardDropout/">[Code]</a> <a href="https://ieeexplore.ieee.org/document/9828384">[Link]</a>
+
 ## International Conference
 
-> **Neural Matching Fields: Implicit Representation of Matching Fields for Visual Correspondence**<br>
->> Sunghwan Hong, Jisu Nam, **Seokju Cho**, Susung Hong,  Sangryul Jeon, Dongbo Min, and Seungryong Kim<br>
->> Neural Information Processing Systems (**NeurIPS**), 2022.<br>
->> <a href="https://ku-cvlab.github.io/NeMF/">[Project Page]</a> <a href="https://arxiv.org/abs/2210.02689">[arXiv]</a> 
+> **Boosting Semi-Supervised Learning by bridging high and low-confidence predictions**<br>
+>> **Nguyen, Khanh-Binh**, and Joon-Sung Yang<br>
+>> Workshop on representation learning with very limited images: the potential of self-, synthetic- and formula-supervision (**ICCVW**), 2023.<br>
+>> <a href="https://github.com/beandkay/SequenceMatch/">[Code]</a> <a href="https://openaccess.thecvf.com/content/ICCV2023W/LIMIT/html/Nguyen_Boosting_Semi-Supervised_Learning_by_Bridging_high_and_low-Confidence_Predictions_ICCVW_2023_paper.html">[Link]</a> 
 
-> **MIDMs: Matching Interleaved Diffusion Models for Exemplar-based Image Translation**<br>
->> Junyoung Seo\*, Gyuseong Lee\*, **Seokju Cho**, Jiyoung Lee, Seungryong Kim<br>
->> ArXiv Preprint, 2022.<br>
->> <a href="https://ku-cvlab.github.io/MIDMs/">[Project Page]</a> <a href="https://arxiv.org/abs/2209.11047">[arXiv]</a> 
+> **VSCHH 2023: A Benchmark for the View Synthesis Challenge of Human Heads**<br>
+>> Jang, Youngkyoon, Jiali Zheng, Jifei Song, Helisa Dhamo, Eduardo Pérez-Pellitero, Thomas Tanay, Matteo Maggioni, **Nguyen, Khanh-Binh** et al.<br>
+>> Proceedings of the IEEE/CVF International Conference on Computer Vision (**ICCV**), 2023.<br>
+>> <a href="https://openaccess.thecvf.com/content/ICCV2023W/RHWC/html/Jang_VSCHH_2023_A_Benchmark_for_the_View_Synthesis_Challenge_of_ICCVW_2023_paper.html">[Link]</a> 
 
-> **Integrative Feature and Cost Aggregation with Transformers for Dense Correspondence**<br>
->> Sunghwan Hong\*, **Seokju Cho**\*, Seungryong Kim, Stephen Lin<br>
->> ArXiv Preprint, 2022.<br>
->> <a href="https://arxiv.org/abs/2209.08742">[arXiv]</a> 
+> **Debiasing, calibrating, and improving Semi-supervised Learning performance via simple Ensemble Projector**<br>
+>> **Nguyen, Khanh-Binh**<br>
+>> IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2024.<br>
+>> <a href="https://github.com/beandkay/EPASS/">[Code]</a> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Debiasing_Calibrating_and_Improving_Semi-Supervised_Learning_Performance_via_Simple_Ensemble_WACV_2024_paper">[arXiv]</a> 
 
-> **Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation**<br>
->> Sunghwan Hong*, **Seokju Cho**\*, Jisu Nam, Stephen Lin, and Seungryong Kim<br>
->> European Conference on Computer Vision (**ECCV**), 2022.<br>
->> <a href="https://seokju-cho.github.io/VAT/">[Project Page]</a> <a href="https://arxiv.org/abs/2207.10866">[arXiv]</a> 
-<a href="https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer">[Github]</a>
+> **(Oral, top 3%) SequenceMatch: Revisiting the design of weak-strong augmentations for Semi-supervised learning**<br>
+>> **Nguyen, Khanh-Binh**<br>
+>> IEEE/CVF Winter Conference on Applications of Computer Vision (**WACV**), 2024.<br>
+>> <a href="https://github.com/beandkay/SequenceMatch/">[Code]</a> <a href="https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_SequenceMatch_Revisiting_the_Design_of_Weak-Strong_Augmentations_for_Semi-Supervised_Learning_WACV_2024_paper">[arXiv]</a> 
 
-**AggMatch: Aggregating Pseudo Labels for Semi-Supervised Learning**<br>
->> Jiwon Kim\*, Kwangrok Ryoo\*, Gyuseong Lee, **Seokju Cho**, Junyoung Seo, Daehwan Kim, Hansang Cho, and Seungryong Kim (Under Review)<br>
->> ArXiv Preprint, 2021.<br>
->> <a href="https://arxiv.org/abs/2201.10444">[arXiv]</a>
-
-> **CATs: Cost Aggregation Transformers for Visual Correspondence**
->> **Seokju Cho**\*, Sunghwan Hong*, Sangryul Jeon, Yunsung Lee, Kwanghoon Sohn, and Seungryong Kim<br>
->> Neural Information Processing Systems (**NeurIPS**), 2021.<br>
->> <a href="https://sunghwanhong.github.io/CATs/">[Project Page]</a> <a href="https://arxiv.org/abs/2106.02520">[arXiv]</a> <a href="https://github.com/SunghwanHong/Cost-Aggregation-transformers">[Github]</a> -->
-  
 - 📫 How to find me: 
   - :office: [LinkedIn](https://www.linkedin.com/in/binh-nguyen-45a4a6b6/)
   - :speaker: [Github](https://github.com/beandkay)
